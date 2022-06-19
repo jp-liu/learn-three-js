@@ -1,0 +1,21 @@
+{
+  "name": "learn-three",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "<jp-liu> fortune_coder@foxmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.6.1"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "gsap": "^3.10.4",
+    "three": "^0.141.0"
+  }
+}
